@@ -1,0 +1,28 @@
+#Hashes are comments in this file
+
+#File Verbose, whether the file will have every action in it, or just actions that make a difference to the state
+false
+
+#Console print, print info to the console?
+false
+
+#console verbose, same as file verbose but for console
+false
+
+#save nerual net on success, saves neural nets to *****NN.net files
+false
+
+#enemy damage
+3
+
+#enemy health
+9
+
+#enemies per room
+2
+
+#enemies spawn sick, sick means they will skip their next turn, which is usually the turn they spawn
+true
+
+#target rooms to complete, number of rooms necessary to be considered a success
+60

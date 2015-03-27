@@ -1,0 +1,1175 @@
+Runs:1 Deeps:HTA HotsHTA TankHTA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(2)
+Enemy1 :HP(9) Target(1)
+End of scene
+
+Runs:2 Deeps:TUT HotsTUT TankTUT
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(17)
+Enemy0 :HP(9) Target(2)
+Enemy1 :HP(9) Target(1)
+End of scene
+
+Runs:5 Deeps:TLE HotsTLE TankTLE
+Deeps :HP(12) | Hots :HP(4) |  Tank :HP(14)
+Enemy0 :HP(9) Target(2)
+Enemy1 :HP(9) Target(1)
+End of scene
+
+Runs:6 Deeps:HTA HotsHTA TankHTA
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(17)
+Enemy0 :HP(9) Target(2)
+Enemy1 :HP(9) Target(1)
+End of scene
+
+Runs:7 Deeps:TUT HotsTUT TankTUT
+Deeps :HP(12) | Hots :HP(4) |  Tank :HP(14)
+Enemy0 :HP(9) Target(2)
+Enemy1 :HP(9) Target(1)
+End of scene
+
+Runs:8 Deeps:HLA HotsHLA TankHLA
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(14)
+Enemy0 :HP(9) Target(2)
+Enemy1 :HP(9) Target(1)
+End of scene
+
+Runs:10 Deeps:AHE HotsAHE TankAHE
+Deeps :HP(12) | Hots :HP(4) |  Tank :HP(11)
+Enemy0 :HP(2) Target(2)
+Enemy1 :HP(3) Target(1)
+End of scene
+
+Runs:11 Deeps:ALE HotsALE TankALE
+Deeps :HP(12) | Hots :HP(4) |  Tank :HP(11)
+End of scene
+
+Runs:15 Deeps:ALE HotsMRM TankALE
+Deeps :HP(12) | Hots :HP(4) |  Tank :HP(11)
+Enemy0 :HP(5) Target(2)
+Enemy1 :HP(9) Target(0)
+End of scene
+
+Runs:16 Deeps:ALE HotsHTA TankALE
+Deeps :HP(9) | Hots :HP(4) |  Tank :HP(11)
+Enemy0 :HP(5) Target(0)
+End of scene
+
+Runs:17 Deeps:ALE HotsTUT TankALE
+Deeps :HP(9) | Hots :HP(4) |  Tank :HP(11)
+End of scene
+
+Runs:18 Deeps:ALE HotsHLA TankALE
+Deeps :HP(12) | Hots :HP(4) |  Tank :HP(11)
+End of scene
+
+Runs:19 Deeps:ALE HotsHSF TankARE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(11)
+End of scene
+
+Runs:23 Deeps:ALE HotsAHE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(11)
+Enemy0 :HP(9) Target(0)
+Enemy1 :HP(9) Target(0)
+End of scene
+
+Runs:24 Deeps:ALE HotsALE TankHTA
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(11)
+Enemy0 :HP(9) Target(0)
+End of scene
+
+Runs:25 Deeps:ALE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(11)
+End of scene
+
+Runs:27 Deeps:ALE HotsALE TankHSF
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(14)
+End of scene
+
+Runs:29 Deeps:ALE HotsALE TankHSF
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+End of scene
+
+Runs:33 Deeps:ALE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(9) Target(0)
+Enemy1 :HP(9) Target(1)
+End of scene
+
+Runs:34 Deeps:ARE HotsALE TankTUT
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(14)
+Enemy0 :HP(9) Target(2)
+End of scene
+
+Runs:35 Deeps:TUT HotsALE TankHTA
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(14)
+Enemy0 :HP(7) Target(0)
+End of scene
+
+Runs:36 Deeps:TLE HotsALE TankHSF
+Deeps :HP(6) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(5) Target(0)
+End of scene
+
+Runs:37 Deeps:THE HotsALE TankHLA
+Deeps :HP(6) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(3) Target(0)
+End of scene
+
+Runs:38 Deeps:MRM HotsALE TankALE
+Deeps :HP(6) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(9) Target(2)
+Enemy1 :HP(9) Target(0)
+End of scene
+
+Runs:39 Deeps:HTA HotsALE TankALE
+Deeps :HP(3) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(3) Target(2)
+Enemy1 :HP(9) Target(0)
+End of scene
+
+Runs:40 Deeps:HLA HotsALE TankALE
+Deeps :HP(3) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(9) Target(0)
+End of scene
+
+Runs:41 Deeps:HSF HotsALE TankALE
+Deeps :HP(3) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(3) Target(0)
+End of scene
+
+Runs:42 Deeps:AHE HotsALE TankALE
+Deeps :HP(3) | Hots :HP(10) |  Tank :HP(17)
+End of scene
+
+Runs:53 Deeps:AHE HotsMRM TankALE
+Deeps :HP(3) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(5) Target(2)
+Enemy1 :HP(9) Target(0)
+End of scene
+
+Runs:54 Deeps:AHE HotsHTA TankALE
+Deeps :HP(10) | Hots :HP(10) |  Tank :HP(14)
+Enemy0 :HP(5) Target(2)
+End of scene
+
+Runs:55 Deeps:AHE HotsHLA TankALE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(14)
+End of scene
+
+Runs:62 Deeps:AHE HotsMRM TankALE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(14)
+Enemy0 :HP(5) Target(0)
+Enemy1 :HP(9) Target(0)
+End of scene
+
+Runs:63 Deeps:AHE HotsTHE TankAHE
+Deeps :HP(9) | Hots :HP(7) |  Tank :HP(14)
+Enemy0 :HP(1) Target(1)
+Enemy1 :HP(2) Target(0)
+End of scene
+
+Runs:64 Deeps:AHE HotsHTA TankHSF
+Deeps :HP(12) | Hots :HP(4) |  Tank :HP(17)
+Enemy0 :HP(1) Target(1)
+End of scene
+
+Runs:65 Deeps:AHE HotsHLA TankARE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+End of scene
+
+Runs:66 Deeps:AHE HotsHLA TankTLE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:68 Deeps:AHE HotsHLA TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(1)
+Enemy1 :HP(9) Target(1)
+End of scene
+
+Runs:69 Deeps:AHE HotsHLA TankTHE
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(17)
+Enemy0 :HP(2) Target(1)
+Enemy1 :HP(9) Target(2)
+End of scene
+
+Runs:70 Deeps:AHE HotsAHE TankHTA
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(14)
+Enemy0 :HP(2) Target(2)
+End of scene
+
+Runs:71 Deeps:AHE HotsAHE TankHSF
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(17)
+End of scene
+
+Runs:73 Deeps:AHE HotsAHE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+End of scene
+
+Runs:75 Deeps:AHE HotsAHE TankHSF
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:79 Deeps:AHE HotsAHE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(1)
+Enemy1 :HP(9) Target(2)
+End of scene
+
+Runs:80 Deeps:AHE HotsAHE TankTHE
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(17)
+Enemy0 :HP(2) Target(1)
+Enemy1 :HP(7) Target(2)
+End of scene
+
+Runs:81 Deeps:AHE HotsALE TankHTA
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(17)
+End of scene
+
+Runs:83 Deeps:AHE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+End of scene
+
+Runs:84 Deeps:AHE HotsALE TankHSF
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:88 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+Enemy1 :HP(9) Target(1)
+End of scene
+
+Runs:89 Deeps:AHE HotsALE TankTUT
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(9) Target(2)
+End of scene
+
+Runs:90 Deeps:AHE HotsALE TankTHE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+End of scene
+
+Runs:91 Deeps:AHE HotsALE TankHSF
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:99 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+Enemy1 :HP(9) Target(1)
+End of scene
+
+Runs:100 Deeps:AHE HotsALE TankTUT
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(9) Target(2)
+End of scene
+
+Runs:101 Deeps:AHE HotsALE TankTHE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+End of scene
+
+Runs:103 Deeps:AHE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:110 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(1)
+Enemy1 :HP(9) Target(1)
+End of scene
+
+Runs:111 Deeps:AHE HotsALE TankTHE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(9) Target(2)
+End of scene
+
+Runs:112 Deeps:AHE HotsALE TankTUT
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+End of scene
+
+Runs:116 Deeps:AHE HotsALE TankHSF
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:120 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+Enemy1 :HP(9) Target(0)
+End of scene
+
+Runs:121 Deeps:AHE HotsALE TankTHE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(9) Target(2)
+End of scene
+
+Runs:122 Deeps:AHE HotsALE TankHTA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+End of scene
+
+Runs:125 Deeps:AHE HotsALE TankHSF
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:130 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(1)
+Enemy1 :HP(9) Target(0)
+End of scene
+
+Runs:131 Deeps:AHE HotsALE TankHSF
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+End of scene
+
+Runs:132 Deeps:AHE HotsALE TankTHE
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:133 Deeps:AHE HotsALE TankHTA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:140 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(2)
+Enemy1 :HP(9) Target(2)
+End of scene
+
+Runs:141 Deeps:AHE HotsALE TankHSF
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(9) Target(2)
+End of scene
+
+Runs:142 Deeps:AHE HotsALE TankTHE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+End of scene
+
+Runs:148 Deeps:AHE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:150 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(2)
+Enemy1 :HP(9) Target(2)
+End of scene
+
+Runs:151 Deeps:AHE HotsALE TankHSF
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(9) Target(2)
+End of scene
+
+Runs:152 Deeps:AHE HotsALE TankTHE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+End of scene
+
+Runs:155 Deeps:AHE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:161 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+Enemy1 :HP(9) Target(2)
+End of scene
+
+Runs:162 Deeps:AHE HotsALE TankHSF
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(9) Target(2)
+End of scene
+
+Runs:163 Deeps:AHE HotsALE TankTHE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+End of scene
+
+Runs:169 Deeps:AHE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:171 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+Enemy1 :HP(9) Target(2)
+End of scene
+
+Runs:172 Deeps:AHE HotsALE TankHSF
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(9) Target(2)
+End of scene
+
+Runs:173 Deeps:AHE HotsALE TankTHE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+End of scene
+
+Runs:176 Deeps:AHE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:182 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+Enemy1 :HP(9) Target(2)
+End of scene
+
+Runs:183 Deeps:AHE HotsALE TankHSF
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(9) Target(2)
+End of scene
+
+Runs:184 Deeps:AHE HotsALE TankTHE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+End of scene
+
+Runs:190 Deeps:AHE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:192 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(1)
+Enemy1 :HP(9) Target(0)
+End of scene
+
+Runs:193 Deeps:AHE HotsALE TankHSF
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+End of scene
+
+Runs:194 Deeps:AHE HotsALE TankHTA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:202 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(1)
+Enemy1 :HP(9) Target(2)
+End of scene
+
+Runs:203 Deeps:AHE HotsALE TankHSF
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(9) Target(2)
+End of scene
+
+Runs:204 Deeps:AHE HotsALE TankHTA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+End of scene
+
+Runs:206 Deeps:AHE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:213 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(2)
+Enemy1 :HP(9) Target(1)
+End of scene
+
+Runs:214 Deeps:AHE HotsALE TankHSF
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(20)
+Enemy0 :HP(9) Target(1)
+End of scene
+
+Runs:215 Deeps:AHE HotsALE TankHTA
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(20)
+End of scene
+
+Runs:220 Deeps:AHE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:223 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+Enemy1 :HP(9) Target(0)
+End of scene
+
+Runs:224 Deeps:AHE HotsALE TankHSF
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+End of scene
+
+Runs:225 Deeps:AHE HotsALE TankHTA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:233 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(1)
+Enemy1 :HP(9) Target(2)
+End of scene
+
+Runs:234 Deeps:AHE HotsALE TankHSF
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(9) Target(2)
+End of scene
+
+Runs:235 Deeps:AHE HotsALE TankHTA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+End of scene
+
+Runs:239 Deeps:AHE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:243 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(2)
+Enemy1 :HP(9) Target(0)
+End of scene
+
+Runs:244 Deeps:AHE HotsALE TankHLA
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+End of scene
+
+Runs:245 Deeps:AHE HotsALE TankHSF
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:246 Deeps:AHE HotsALE TankHTA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:254 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(2)
+Enemy1 :HP(9) Target(1)
+End of scene
+
+Runs:255 Deeps:AHE HotsALE TankHSF
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(20)
+Enemy0 :HP(9) Target(1)
+End of scene
+
+Runs:256 Deeps:AHE HotsALE TankHTA
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(20)
+End of scene
+
+Runs:262 Deeps:AHE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:264 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(2)
+Enemy1 :HP(9) Target(1)
+End of scene
+
+Runs:265 Deeps:AHE HotsALE TankHSF
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(20)
+Enemy0 :HP(9) Target(1)
+End of scene
+
+Runs:266 Deeps:AHE HotsALE TankHTA
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(20)
+End of scene
+
+Runs:272 Deeps:AHE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:274 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+Enemy1 :HP(9) Target(0)
+End of scene
+
+Runs:275 Deeps:AHE HotsALE TankHSF
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+End of scene
+
+Runs:276 Deeps:AHE HotsALE TankHTA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:283 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(1)
+Enemy1 :HP(9) Target(1)
+End of scene
+
+Runs:284 Deeps:AHE HotsALE TankARE
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(20)
+Enemy0 :HP(5) Target(1)
+End of scene
+
+Runs:285 Deeps:AHE HotsALE TankHSF
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(20)
+End of scene
+
+Runs:292 Deeps:AHE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:294 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(1)
+Enemy1 :HP(9) Target(0)
+End of scene
+
+Runs:295 Deeps:AHE HotsALE TankARE
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(5) Target(0)
+End of scene
+
+Runs:296 Deeps:AHE HotsALE TankHTA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:304 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+Enemy1 :HP(9) Target(2)
+End of scene
+
+Runs:305 Deeps:AHE HotsALE TankARE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(5) Target(2)
+End of scene
+
+Runs:306 Deeps:AHE HotsALE TankHTA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+End of scene
+
+Runs:311 Deeps:AHE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:314 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(2)
+Enemy1 :HP(9) Target(1)
+End of scene
+
+Runs:315 Deeps:AHE HotsALE TankARE
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(20)
+Enemy0 :HP(5) Target(1)
+End of scene
+
+Runs:316 Deeps:AHE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:324 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(1)
+Enemy1 :HP(9) Target(0)
+End of scene
+
+Runs:325 Deeps:AHE HotsALE TankARE
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(5) Target(0)
+End of scene
+
+Runs:326 Deeps:AHE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:334 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(2)
+Enemy1 :HP(9) Target(0)
+End of scene
+
+Runs:335 Deeps:AHE HotsALE TankARE
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(5) Target(0)
+End of scene
+
+Runs:336 Deeps:AHE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:344 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+Enemy1 :HP(9) Target(1)
+End of scene
+
+Runs:345 Deeps:AHE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(20)
+Enemy0 :HP(9) Target(1)
+End of scene
+
+Runs:346 Deeps:AHE HotsALE TankARE
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(20)
+End of scene
+
+Runs:354 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+Enemy1 :HP(9) Target(0)
+End of scene
+
+Runs:355 Deeps:AHE HotsALE TankHLA
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+End of scene
+
+Runs:356 Deeps:AHE HotsALE TankARE
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:357 Deeps:AHE HotsALE TankHTA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:364 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(1)
+Enemy1 :HP(9) Target(0)
+End of scene
+
+Runs:365 Deeps:AHE HotsALE TankHLA
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+End of scene
+
+Runs:366 Deeps:AHE HotsALE TankARE
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:367 Deeps:AHE HotsALE TankHTA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:374 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(2)
+Enemy1 :HP(9) Target(2)
+End of scene
+
+Runs:375 Deeps:AHE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(9) Target(2)
+End of scene
+
+Runs:376 Deeps:AHE HotsALE TankARE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+End of scene
+
+Runs:382 Deeps:AHE HotsALE TankHSF
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:385 Deeps:AHE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(2)
+Enemy1 :HP(9) Target(0)
+End of scene
+
+Runs:386 Deeps:AHE HotsALE TankHLA
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+End of scene
+
+Runs:387 Deeps:AHE HotsALE TankARE
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:388 Deeps:AHE HotsALE TankHTA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:395 Deeps:ALE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(1)
+Enemy1 :HP(9) Target(0)
+End of scene
+
+Runs:396 Deeps:AHE HotsALE TankHLA
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+End of scene
+
+Runs:397 Deeps:TUT HotsALE TankARE
+Deeps :HP(6) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(3) Target(0)
+End of scene
+
+Runs:398 Deeps:ALE HotsALE TankHTA
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:405 Deeps:ALE HotsALE TankMRM
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(1)
+Enemy1 :HP(9) Target(0)
+End of scene
+
+Runs:406 Deeps:ALE HotsALE TankHLA
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+End of scene
+
+Runs:407 Deeps:ALE HotsALE TankARE
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:408 Deeps:ALE HotsALE TankHTA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:416 Deeps:ALE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(1)
+Enemy1 :HP(9) Target(1)
+End of scene
+
+Runs:417 Deeps:ALE HotsALE TankARE
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(20)
+Enemy0 :HP(5) Target(1)
+End of scene
+
+Runs:418 Deeps:ALE HotsALE TankHTA
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(20)
+End of scene
+
+Runs:425 Deeps:ALE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:426 Deeps:ALE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+Enemy1 :HP(9) Target(0)
+End of scene
+
+Runs:427 Deeps:ALE HotsALE TankARE
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(5) Target(0)
+End of scene
+
+Runs:428 Deeps:ALE HotsALE TankHTA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:436 Deeps:ALE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(1)
+Enemy1 :HP(9) Target(1)
+End of scene
+
+Runs:437 Deeps:ALE HotsALE TankARE
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(20)
+Enemy0 :HP(5) Target(1)
+End of scene
+
+Runs:438 Deeps:ALE HotsALE TankHTA
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(20)
+End of scene
+
+Runs:445 Deeps:ALE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:446 Deeps:ALE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(2)
+Enemy1 :HP(9) Target(1)
+End of scene
+
+Runs:447 Deeps:ALE HotsALE TankARE
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(20)
+Enemy0 :HP(5) Target(1)
+End of scene
+
+Runs:448 Deeps:ALE HotsALE TankHTA
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(20)
+End of scene
+
+Runs:455 Deeps:ALE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:456 Deeps:ALE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(1)
+Enemy1 :HP(9) Target(2)
+End of scene
+
+Runs:457 Deeps:ALE HotsALE TankHTA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(9) Target(2)
+End of scene
+
+Runs:458 Deeps:ALE HotsALE TankARE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+End of scene
+
+Runs:462 Deeps:ALE HotsALE TankHSF
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:467 Deeps:ALE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(1)
+Enemy1 :HP(9) Target(0)
+End of scene
+
+Runs:468 Deeps:ALE HotsALE TankHTA
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+End of scene
+
+Runs:469 Deeps:ALE HotsALE TankARE
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:476 Deeps:ALE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:477 Deeps:ALE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(2)
+Enemy1 :HP(9) Target(2)
+End of scene
+
+Runs:478 Deeps:ALE HotsALE TankHTA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(9) Target(2)
+End of scene
+
+Runs:479 Deeps:ALE HotsALE TankARE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+End of scene
+
+Runs:482 Deeps:ALE HotsALE TankHSF
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:488 Deeps:ALE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(2)
+Enemy1 :HP(9) Target(1)
+End of scene
+
+Runs:489 Deeps:ALE HotsALE TankHTA
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(20)
+Enemy0 :HP(9) Target(1)
+End of scene
+
+Runs:490 Deeps:ALE HotsALE TankARE
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(20)
+End of scene
+
+Runs:497 Deeps:ALE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:499 Deeps:ALE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+Enemy1 :HP(9) Target(2)
+End of scene
+
+Runs:500 Deeps:ALE HotsALE TankARE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(5) Target(2)
+End of scene
+
+Runs:501 Deeps:ALE HotsALE TankTHE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+End of scene
+
+Runs:502 Deeps:ALE HotsALE TankHSF
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:511 Deeps:ALE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(2)
+Enemy1 :HP(9) Target(2)
+End of scene
+
+Runs:512 Deeps:ALE HotsALE TankARE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(5) Target(2)
+End of scene
+
+Runs:513 Deeps:ALE HotsALE TankTHE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+End of scene
+
+Runs:518 Deeps:ALE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:522 Deeps:ALE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+Enemy1 :HP(9) Target(0)
+End of scene
+
+Runs:523 Deeps:ALE HotsALE TankARE
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(5) Target(0)
+End of scene
+
+Runs:524 Deeps:ALE HotsALE TankTHE
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:527 Deeps:ALE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:532 Deeps:ALE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+Enemy1 :HP(9) Target(2)
+End of scene
+
+Runs:533 Deeps:ALE HotsALE TankARE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+Enemy0 :HP(5) Target(2)
+End of scene
+
+Runs:534 Deeps:ALE HotsALE TankTHE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(17)
+End of scene
+
+Runs:537 Deeps:ALE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:543 Deeps:ALE HotsALE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(2)
+Enemy1 :HP(9) Target(0)
+End of scene
+
+Runs:544 Deeps:ALE HotsALE TankARE
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(5) Target(0)
+End of scene
+
+Runs:545 Deeps:ALE HotsALE TankTHE
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:546 Deeps:ALE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:553 Deeps:ALE HotsTUT TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(0)
+Enemy1 :HP(9) Target(1)
+End of scene
+
+Runs:554 Deeps:ALE HotsALE TankARE
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(20)
+Enemy0 :HP(5) Target(1)
+End of scene
+
+Runs:555 Deeps:ALE HotsALE TankTHE
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(20)
+End of scene
+
+Runs:556 Deeps:ALE HotsALE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:563 Deeps:ALE HotsAHE TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(2)
+Enemy1 :HP(9) Target(1)
+End of scene
+
+Runs:564 Deeps:ARE HotsARE TankARE
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(20)
+Enemy0 :HP(5) Target(1)
+End of scene
+
+Runs:565 Deeps:ALE HotsARE TankTHE
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(20)
+End of scene
+
+Runs:566 Deeps:ALE HotsARE TankHLA
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+End of scene
+
+Runs:573 Deeps:TUT HotsHSF TankMRM
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(20)
+Enemy0 :HP(9) Target(2)
+Enemy1 :HP(9) Target(2)
+End of scene
+
+Runs:574 Deeps:AHE HotsTHE TankARE
+Deeps :HP(12) | Hots :HP(7) |  Tank :HP(17)
+Enemy0 :HP(2) Target(2)
+Enemy1 :HP(5) Target(1)
+End of scene
+
+Runs:575 Deeps:ALE HotsHTA TankARE
+Deeps :HP(12) | Hots :HP(4) |  Tank :HP(17)
+Enemy0 :HP(1) Target(1)
+End of scene
+
+Runs:576 Deeps:ALE HotsMRM TankARE
+Deeps :HP(12) | Hots :HP(4) |  Tank :HP(17)
+Enemy0 :HP(5) Target(0)
+Enemy1 :HP(9) Target(2)
+End of scene
+
+Runs:577 Deeps:ALE HotsALE TankARE
+Deeps :HP(12) | Hots :HP(4) |  Tank :HP(14)
+Enemy0 :HP(3) Target(2)
+End of scene
+
+Runs:578 Deeps:ALE HotsTUT TankARE
+Deeps :HP(12) | Hots :HP(4) |  Tank :HP(14)
+End of scene
+
+Runs:581 Deeps:ALE HotsHSF TankARE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(14)
+End of scene
+
+Runs:589 Deeps:ALE HotsMRM TankARE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(14)
+Enemy0 :HP(5) Target(1)
+Enemy1 :HP(9) Target(2)
+End of scene
+
+Runs:590 Deeps:ALE HotsALE TankARE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(11)
+Enemy0 :HP(3) Target(2)
+End of scene
+
+Runs:591 Deeps:ALE HotsTUT TankARE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(11)
+End of scene
+
+Runs:594 Deeps:ALE HotsHLA TankARE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(18)
+End of scene
+
+Runs:599 Deeps:ALE HotsMRM TankARE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(18)
+Enemy0 :HP(9) Target(0)
+Enemy1 :HP(5) Target(2)
+End of scene
+
+Runs:600 Deeps:ALE HotsALE TankARE
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(18)
+Enemy0 :HP(3) Target(0)
+End of scene
+
+Runs:601 Deeps:ALE HotsTUT TankARE
+Deeps :HP(9) | Hots :HP(10) |  Tank :HP(18)
+End of scene
+
+Runs:604 Deeps:ALE HotsHLA TankARE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(18)
+End of scene
+
+Runs:610 Deeps:ALE HotsMRM TankARE
+Deeps :HP(12) | Hots :HP(10) |  Tank :HP(18)
+Enemy0 :HP(9) Target(1)
+Enemy1 :HP(5) Target(1)
+End of scene
+
